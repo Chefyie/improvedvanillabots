@@ -1,7 +1,7 @@
 // Improved Vanilla bots
 // Made by Chefy
 
-Convars.SetValue( "sb_allow_shoot_through_survivors", "1");
+Convars.SetValue( "sb_allow_shoot_through_survivors", "0");
 Convars.SetValue( "sb_close_threat_range", "0");
 Convars.SetValue( "sb_combat_saccade_speed", "3000");
 Convars.SetValue( "sb_far_hearing_range", "3000");
